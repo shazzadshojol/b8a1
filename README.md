@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment covers TypeScript fundamentals and object-oriented programming.
+This assignment for TypeScript exam.
 
 ## Blog Posts
 
